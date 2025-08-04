@@ -1,5 +1,0 @@
-build:
-  python_version: "3.10"
-  python_packages:
-    - "cog==0.9.7"
-predict: "predict.py:Predictor"
